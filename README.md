@@ -10,7 +10,7 @@
   2. scikit-learn pythonlibrary <br>
      Using pip install scikit-learn==0.22.1 or [click here](https://pypi.org/project/scikit-learn/)
   3. Wamp server <br>
-     Downlaod link is "https://www.wampserver.com/en/#download-wrapper"
+     Downlaod link is https://www.wampserver.com/en/#download-wrapper
      
      
      
@@ -24,9 +24,15 @@
               
               
  ## Files included : 
-  1. "hackathon.py" that contains the program for the K-means clustering algorithm.
-  2. "hackathon_dataset.csv" that contains the sign-up data of the users entered in the website.
-  3. "Cluster_category.csv" that contains the data of the group assigned to the users.
+  1. hackathon.py
+  2. hackathon_dataset.csv
+  3. Cluster_category.csv
+  4. enroll.txt
+  5. enroll.html
+  6. home.html
+  7. home.txt
+  8. about.txt
+  9. about.html
 
 
 
