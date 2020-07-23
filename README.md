@@ -6,9 +6,9 @@
   
  ## Installation:
   1. Pandas python library <br>
-     Using pip install pandas==1.0.1 or [click here]("https://pypi.org/project/pandas/")
+     Using pip install pandas==1.0.1 or [click here](https://pypi.org/project/pandas/)
   2. scikit-learn pythonlibrary <br>
-     Using pip install scikit-learn==0.22.1 or [click here]("https://pypi.org/project/scikit-learn/")
+     Using pip install scikit-learn==0.22.1 or [click here](https://pypi.org/project/scikit-learn/)
   3. Wamp server <br>
      Downlaod link is "https://www.wampserver.com/en/#download-wrapper"
      
