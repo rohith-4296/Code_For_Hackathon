@@ -10,7 +10,7 @@ import csv
 # Used to group the people with similar interest.
 def cluster_data():
     # Getting dataset
-    dataset = pd.read_csv("hackathon_dataset.csv")
+    dataset = pd.read_csv("hackathon_data.csv")
     # Considering important part of data for algorithm implementation.
     x = dataset.iloc[:, 3:11].values
     
@@ -33,3 +33,5 @@ def cluster_data():
         # writing the fields
         csvwriter.writerow(y)
 
+cluster_data()
+    
